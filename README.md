@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vuong Nguyen
-- 👀 I’m an Swift Developer
+- 👀 I’m Swift Developer
 
 <!---
 vuongnguyen6352/vuongnguyen6352 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
